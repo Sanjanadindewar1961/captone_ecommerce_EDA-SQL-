@@ -87,4 +87,3 @@ The database is named **`ecommercedb`** and contains five main tables:
 
 ---
 
-
